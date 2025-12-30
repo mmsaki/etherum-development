@@ -2,8 +2,8 @@
 
 Basic ethereum development class and workshops.
 
-**Curriculum**: [curriculum.md](./curriculum.md)
-**calender**: [calendar.md](./calendar.md)
+- **Curriculum**: [curriculum.md](./curriculum.md)
+- **calender**: [calendar.md](./calendar.md)
 
 ## Lessons
 
