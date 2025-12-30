@@ -10,4 +10,8 @@
 
 ## Office hours
 
-- 1:1 Office hours with instructor (2 hours per week per student)
+- Office hours TBD
+
+## 1:1 with instructor
+
+- [Schedule 1:1 meeting](https://cal.com/meek-dev-qhiyvt/30min)
