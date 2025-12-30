@@ -7,3 +7,7 @@
 - [Ethereum Development (Main Content)](https://github.com/mmsaki/etherum-development)
 - [Website](https://msaki.gitbook.io/ethereum-development/)
 - Workshops TBD
+
+## Office hours
+
+- 1:1 Office hours with instructor (2 hours per week per student)
