@@ -15,7 +15,7 @@ Basic ethereum development class and workshops.
 ## Talks
 
 - [hacks.md](./talks/hacks.md)
-- [flashloans.md](./talks/falshloans.md)
+- [flashloans.md](./talks/flashloan.md)
 
 ## About me
 
