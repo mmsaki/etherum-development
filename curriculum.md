@@ -1,15 +1,10 @@
 # Curriculum
 
-- Basic intro of blockchain development.
-- Introduction to Solidity language.
-- Smart contracts.
-- Deploying applications.
-- Blockchain Security.
-
 - You will understand the basics of blockchain development.
 - You will learn how to write smart contracts in Solidity.
 - You will learn how to deploy smart contracts to the Ethereum Virtual Machine.
 - You will learn best practices to secure your smart contracts.
+- You will learn how to use AI in blockchain development.
 
 ## Lessons
 
