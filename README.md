@@ -5,6 +5,7 @@ Basic ethereum development class and workshops.
 - **Curriculum**: [curriculum.md](./curriculum.md)
 - **calender**: [calendar.md](./calendar.md)
 - **on boarding**: [onboarding.md](./onboarding.md)
+- **application (OKC Only)**: [application.md](./application.md)
 
 ## Lessons
 
