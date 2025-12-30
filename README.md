@@ -12,6 +12,11 @@ Basic ethereum development class and workshops.
 - [3.md](./lessons/3.md)
 - [4.md](./lessons/4.md)
 
+## Talks
+
+- [hacks.md](./talks/hacks.md)
+- [flashloans.md](./talks/falshloans.md)
+
 ## About me
 
 - [about me.md](./about-me/README.md)
