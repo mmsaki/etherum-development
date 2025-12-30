@@ -21,7 +21,7 @@ My name is Meek, I am a software developer and founder building on Ethereum.
 
 ## My work
 
-**What is do now.**
+**What I do now.**
 
 Now: Working at AsyncSwap Labs + teaching workshops.
 
