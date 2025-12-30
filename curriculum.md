@@ -33,3 +33,9 @@
 - Smart contract Security and auditing
 - MEV and Blockchain Research
 - Code is Law.
+
+## Requirements
+
+- A Computer (*Required*)
+- Computer programming experience (*only required for workshops*)
+- 4 hours per week.
