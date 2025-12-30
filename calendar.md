@@ -8,14 +8,14 @@
 ## Cohort 1
 
 - Accepting 3 - 5 people.
-- Week of Jan 20th
+- Week of Jan 20th 2026
 - 4 Weeks
-- Talks: On $8 million dollar vulnerability, week of Jan 12th.
+- Talks: On $8 million dollar vulnerability, week of Jan 12th 2026.
 
 ## Cohort 2
 
 - Accepting 3 - 5 people.
-- Week of Feb 20th
+- Week of Feb 20th 2026
 - 4 Weeks.
-- Talks: On flashloans, $1 million atomic loans in code, week of Feb 20th.
+- Talks: On flashloans, $1 million atomic loans in code, week of Feb 20th 2026.
 - TBA public talk, week of Feb 16th.
