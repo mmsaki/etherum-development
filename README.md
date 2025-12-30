@@ -4,7 +4,7 @@ Basic ethereum development class and workshops.
 
 - **Curriculum**: [curriculum.md](./curriculum.md)
 - **calender**: [calendar.md](./calendar.md)
-- **on boarding**: [onbording.md](./onboarding.md)
+- **on boarding**: [onboarding.md](./onboarding.md)
 
 ## Lessons
 
