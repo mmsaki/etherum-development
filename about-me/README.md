@@ -8,10 +8,10 @@ My name is Meek, I am a software developer and founder building on Ethereum.
 
 - 2021: Graduate at University of Minnesota *fintech* bootcamp.
 - 2022: 1st Hackathon winning at EthGlobal Hackthon.
-- 2023: 1st Consulting at Extropyio. (7+ cohorts)
-- 2023: Science of Blockchain conference at Stanford University, Palo alto, CA.
+- 2023: Consulting at Extropyio. (7+ blockchain cohorts)
+- 2023: Attended Science of Blockchain conference at Stanford University, Palo alto, CA.
 - 2024: Independent Consulting at Lifeworld.
-- 2025: Co-founder at AsyncSwap Labs with associate professor / researcher Jiasun Li.
+- 2025: Co-founder at AsyncSwap Labs.
 
 **Links**
 
