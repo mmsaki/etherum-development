@@ -16,8 +16,6 @@ My name is Meek, I am a software developer and founder building on Ethereum.
 **Links**
 
 - [@msakiart on X (formerly twitter)](https://x.com/msakiart)
-- [@asyncswap](https://x.com/asyncswap)
-- [Asyncswap website](https://asyncswap.org)
 
 ## My work
 
