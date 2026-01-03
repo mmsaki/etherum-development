@@ -23,6 +23,11 @@ My name is Meek, I am a software developer and founder building on Ethereum.
 
 Now: Working at AsyncSwap Labs + teaching workshops.
 
+**Personal projects**
+
+- [Solidity language server protocol](https://github.com/mmsaki/solidity-language-server) - A solidity lsp server build from solidity AST during build processes
+- [huff.nvim](https://github.com/mmsaki/huff.nvim) - Vim plugin for developing huff contracts
+
 ## Our company
 
 **My work at AsyncSwap Labs**
