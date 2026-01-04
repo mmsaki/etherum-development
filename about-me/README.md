@@ -8,7 +8,7 @@ My name is Meek, I am a software developer and founder building on Ethereum.
 
 - 2021: Graduate at University of Minnesota *fintech* bootcamp.
 - 2022: 1st Hackathon winning at EthGlobal Hackthon.
-- 2023: Consulting at Extropyio. (7+ blockchain cohorts i.e Solidity, EVM, Zero Knowledge Proofs, and Solana courses)
+- 2023: Consulting at Extropyio via Encodeclub (7+ blockchain cohorts i.e Solidity, EVM, Zero Knowledge Proofs, and Solana courses)
 - 2023: Attended Science of Blockchain conference at Stanford University, Palo alto, CA.
 - 2024: Independent Consulting at Lifeworld.
 - 2025: Co-founder at AsyncSwap Labs.
